@@ -5,4 +5,4 @@
   1) Type your goals in the text-box.
   2) Click on them to delete.
 
-https://idyllic-twilight-4ded62.netlify.app
+Visit the live site here: https://idyllic-twilight-4ded62.netlify.app
